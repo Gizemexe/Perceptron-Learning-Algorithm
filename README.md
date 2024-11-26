@@ -18,7 +18,7 @@ The Perceptron algorithm is a linear classifier that iteratively adjusts its wei
 <p>After training, I tested the model on the test dataset (TESTData) and compared the predicted class labels with the actual class labels to evaluate the performance of the model.</p>
 
 **The Output:**
-![image](https://github.com/user-attachments/assets/be0f66ad-605f-4b8d-b74b-432da9c2ce84)
+<p>![image](https://github.com/user-attachments/assets/be0f66ad-605f-4b8d-b74b-432da9c2ce84)</p>
 ![image](https://github.com/user-attachments/assets/da45ebd6-5d7d-4d16-a5ef-005d2e87463a)
 
 <p>Note: The Actual Class column represents the class labels from the test data. It shows the initial test data content.</p>
