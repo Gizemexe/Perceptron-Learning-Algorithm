@@ -29,10 +29,15 @@ The Perceptron algorithm is a linear classifier that iteratively adjusts its wei
 <p>To further evaluate the model, the training accuracy was also calculated. This provides an indication of how well the model performed on the data it was trained on.</p>
 
 **Calculate training accuracy**
+
 train_predictions = perceptron.predict(X_train) …
+
 train_accuracy = np.mean(train_predictions == y_train) * 100
+
 …
+
 print(f"Training Accuracy: {train_accuracy:.2f}%")
+
 
 <p>The training accuracy was found to be 94.18%. You can see the screenshot in “Test Results” section.</p>
 
